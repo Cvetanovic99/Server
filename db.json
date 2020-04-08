@@ -29,6 +29,12 @@
     "name": "Novi Sad",
     "country": "Srbija",
     "population": 280000
-  }
+  },
+    {
+      "id": 6,
+      "name": "Valjevp",
+      "country":"Srbija",
+      "population": 354000
+    }
 ]
 }
