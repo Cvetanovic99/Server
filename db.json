@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Nis",
+    "country": "Srbija",
+    "population": 186000
+  },
+  {
+    "id": 2,
+    "name": "Beograd",
+    "country": "Srbija",
+    "population": 1374000
+  },
+  {
+    "id": 3,
+    "name": "Sarajevo",
+    "country": "BiH",
+    "population": 275000
+  },
+  {
+    "id": 4,
+    "name": "Sofija",
+    "country": "Bugarska",
+    "population": 1242000
+  },
+  {
+    "id": 5,
+    "name": "Novi Sad",
+    "country": "Srbija",
+    "population": 280000
+  }
+]
